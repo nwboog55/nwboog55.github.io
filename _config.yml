@@ -9,12 +9,12 @@ theme: jekyll-theme-chirpy
 lang: ru-RU
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Moscow
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Neway # the main title
+title: NewayMC # the main title
 
 tagline: Neway Dev Team # it will display as the subtitle
 
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: NewayMC Studios
+  name: Neway Dev Team
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/favicons/favicon.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
