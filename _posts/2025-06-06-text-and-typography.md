@@ -3,8 +3,8 @@ title: Текст и Типография
 description: Данный пост является тестовым и не несёт какую либо смысловую нагрузку
 author: cotes
 date: 2025-06-02 21:19:15 +0300
-categories: [Test1, Test2]
-tags: [typography]
+categories: [Другое, Технические]
+tags: [типография]
 pin: false
 math: true
 mermaid: true
