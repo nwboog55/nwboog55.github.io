@@ -1,6 +1,6 @@
 ---
 title: Введение
-permalink: /intro
+permalink: /mods/intro.md
 # description: Информация о модификации
 ---
 
