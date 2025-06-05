@@ -1,4 +1,4 @@
 ---
-icon: fas fa-tags
+icon: fas fa-book
 order: 1
 ---
