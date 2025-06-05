@@ -8,4 +8,4 @@ permalink: /docs
 ### Данная страница содержит подробную документацию к различным модификациям Neway Dev Team
 
 ## - [NewayDB](https://nwboog55.github.io/posts/newaydb/)
-  ### - [Введение](https://nwboog55.github.io/docs/newaydb/intro)
+### - [Введение](https://nwboog55.github.io/docs/newaydb.md)
