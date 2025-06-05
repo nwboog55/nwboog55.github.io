@@ -6,5 +6,5 @@ order: 1
 permalink: /docs
 ---
 
-## - [NewayDB](https://nwboog55.github.io/posts/newaydb/)
-#### - [Введение](https://nwboog55.github.io/docs/newaydb.md)
+ - ## [NewayDB](https://nwboog55.github.io/posts/newaydb/)
+   - ###  [Введение](https://nwboog55.github.io/docs/newaydb.md)
