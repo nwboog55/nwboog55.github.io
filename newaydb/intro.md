@@ -1,5 +1,6 @@
 ---
 title: Введение
+permalink: /intro
 # description: Информация о модификации
 ---
 
