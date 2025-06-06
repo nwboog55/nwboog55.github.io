@@ -1,7 +1,7 @@
 ---
-title: Введение
 layout: page
-# permalink: /intro
+title: Введение
+permalink: /newaydb/intro
 # description: Информация о модификации
 ---
 
