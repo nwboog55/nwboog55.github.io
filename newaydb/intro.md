@@ -1,7 +1,7 @@
 ---
 title: Введение
 layout: page
-permalink: /intro
+# permalink: /intro
 # description: Информация о модификации
 ---
 
