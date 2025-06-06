@@ -7,10 +7,6 @@
   icon: "fab fa-telegram"
   url:  'https://t.me/newaymc'
 
-- type: youtube
-  icon: "fab fa-youtube-play"
-  url:  'https://www.youtube.com/@NewayMC'
-
 #- type: twitter
 # icon: "fa-brands fa-x-twitter"
 
