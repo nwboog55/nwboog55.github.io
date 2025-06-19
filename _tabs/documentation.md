@@ -10,6 +10,4 @@ permalink: /docs/
 {: .prompt-warning } 
 
  - ### [NewayDB](https://github.com/nwboog55/NewayDB)
-   - ### [Введение](https://nwboog55.github.io/newaydb/intro) 
-   - ### Аддоны
-     - ### Character Upgrade System Lib ( CUS Lib )
+   - #### [Введение](https://nwboog55.github.io/newaydb/intro)

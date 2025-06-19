@@ -30,6 +30,10 @@ permalink: /newaydb/intro
 > В текущей версии модификации, данная функция отсутствует.
 {: .prompt-warning }
 
+## Скачать
+
+### Github [version 1.20.1-1.2](https://github.com/nwboog55/NewayDB/releases)
+
 ## Лицензия
 
 Модификация создана с использованием лицензии [MS-PL](https://opensource.org/license/ms-pl-html)
