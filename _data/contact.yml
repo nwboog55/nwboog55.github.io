@@ -3,9 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: telegram
-  icon: "fab fa-telegram"
-  url:  'https://t.me/newaymc'
+#- type: telegram
+#  icon: "fab fa-telegram"
+#  url:  'https://t.me/newaymc'
 
 #- type: twitter
 # icon: "fa-brands fa-x-twitter"
